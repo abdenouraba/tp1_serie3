@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Achats</string>
+    <string name="entre_un_item_a_choisir_achet">entre un item a choisir achet</string>
+    <string name="entre_votre_quantit">entre votre Quantit</string>
+    <string name="item_name">item name</string>
+    <string name="entre_ce_que_tu_veut_le_remplacer">entre ce que tu veut le remplacer</string>
+    <string name="achat">achat</string>
+    <string name="ajouter">Ajouter</string>
+</resources>
